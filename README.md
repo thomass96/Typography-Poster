@@ -1,5 +1,5 @@
 <h1>Typography Poster</h1>
-> OneTweet
+> OneTweet Project
 
->> My tweet - <strong>"Edward Snowden - Can you hear me now?"
+>> My tweet - <strong>"@Snowden - Can you hear me now?"
 

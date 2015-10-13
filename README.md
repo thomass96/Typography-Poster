@@ -1,5 +1,6 @@
 <h1>Typography Poster</h1>
 > OneTweet Project
 
->> My tweet - <strong>"@Snowden - Can you hear me now?"
+>> SELECTED TWEET - <strong>"@Snowden - Can you hear me now?"
 
+<h2>Poster 1</h2>

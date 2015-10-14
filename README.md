@@ -8,3 +8,6 @@ Typography posters designed using Visual Perceptiuon techinques I learned from t
 
 <h2>Poster 2</h2>
 ![image](https://raw.githubusercontent.com/thomass96/Typography-Poster/master/Poster%202/Poster%202.png)
+
+<h3>Poster 3</h2>
+![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%203/Poster%203.png?raw=true)

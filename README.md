@@ -13,7 +13,7 @@ Typography posters designed using Visual Perceptiuon techinques I learned from t
 ![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%203/Poster%203.png?raw=true)
 
 <h2>Poster 4</h2>
-![image](https://github.com/thomass96/Typography-Poster/blob/master/poster%204/Poster-4.png?raw=true)
+![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%204/Poster-4.png?raw=true)
 
 <h2>Poster 5</h2>
 ![image](https://raw.githubusercontent.com/thomass96/Typography-Poster/master/Poster%205/Poster-5.png)

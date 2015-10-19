@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{writing-mode:tb;}
 	.st1{fill:#A5DA9F;}
-	.st2{font-family:'CourierNewPSMT';}
+	.st2{font-family:'FiraSans-Hair';}
 	.st3{font-size:12px;glyph-orientation-vertical:0;}
 	.st4{fill:#37AA26;}
 	.st5{font-family:'FiraSans-Heavy';}
@@ -14,10 +14,9 @@
 	.st8{font-size:95px;}
 	.st9{font-family:'FiraSans-HeavyItalic';}
 	.st10{font-size:118px;}
-	.st11{font-family:'FiraSans-Hair';}
-	.st12{font-size:108px;}
-	.st13{letter-spacing:-17;}
-	.st14{font-size:91.2889px;}
+	.st11{font-size:108px;}
+	.st12{letter-spacing:-17;}
+	.st13{font-size:91.2889px;}
 </style>
 <g id="Poster_1_xA0_Image_1_">
 	<g id="Layer_2">
@@ -29,8 +28,8 @@
 </g>
 <g id="Layer_3">
 	<text transform="matrix(1 0 0 1 183 234)"><tspan x="0" y="0" class="st4 st5 st6">CAN</tspan><tspan x="139.5" y="0" class="st4 st7 st8">you </tspan><tspan x="0" y="84" class="st4 st9 st10">HEAR</tspan></text>
-	<text transform="matrix(1 0 0 1 175 381)" class="st4 st11 st12 st13">me</text>
-	<text transform="matrix(1 0 0 1 301 383.3487)" class="st4 st9 st14">NOW</text>
-	<text transform="matrix(1 0 0 1 316 471)" class="st4 st11 st10">?</text>
+	<text transform="matrix(1 0 0 1 175 381)" class="st4 st2 st11 st12">me</text>
+	<text transform="matrix(1 0 0 1 301 383.3487)" class="st4 st9 st13">NOW</text>
+	<text transform="matrix(1 0 0 1 316 471)" class="st4 st2 st10">?</text>
 </g>
 </svg>

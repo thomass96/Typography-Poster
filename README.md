@@ -38,4 +38,21 @@ I liked this idea because it could show how Snowden was restricted by speech and
 <h2>Poster 5</h2>
 ![image](https://raw.githubusercontent.com/thomass96/Typography-Poster/master/Poster%205/Poster-5.png)
 
-For my final design, I decided to mess around and mimic 'The matrix' and this is the general image concept that I think of when I think of a hacker/important tech related job. 
+For my final design, I decided to mess around and mimic 'The matrix' and this is the general image concept that I think of when I think of a hacker/important tech related job.
+
+<h2>Poster 6</h2> 
+![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%206/NSA%20LOGO.png?raw=true)
+
+My final poster idea was to recreate the NSA logo out of the tweet. Firstly, obviously because Snowden released covert information about the NSA. Secondly, if a person outside of the group was to look at the poster, it is much easier to recognise that the poster is about Edward Snowden. Whereas, other posters could take longer to understand the concept based on it. 
+
+The font I chose to use was ![image](http://www-ru.azfonts.net/fonts_images/samples/036/optimaltstd-bold-otf.png)
+
+I chose this font mainly because it was the font used in the logo itself and also because its width of the letters meanth that it was easy to give the shape of the logo definition with colour and sizing to make it appear like an image and not a bunch of letters randomly placed everywhere.
+
+I found this poster took me slighlty longer, but that was because I decided to challenge myself and chose an idea that had a lot more elements to its design than some of the previous choices. 
+
+This meant that I needed to a little help from tutorials to overcome some of the problems that I faced. 
+
+The first video I watched was - [How to type on a path](https://www.youtube.com/watch?v=jEij4_Jw13U) & [How to type in an object with the area tool]( https://www.youtube.com/watch?v=alNrZelhJco)
+
+After watching these videos it took me a little time to get used to the concept, however after a few minutes I was able to grasp it and the remainder of the poster didn't take me too long to complete.

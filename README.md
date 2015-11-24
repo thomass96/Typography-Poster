@@ -38,10 +38,14 @@ I liked this idea because it could show how Snowden was restricted by speech and
 <h2>Poster 5</h2>
 ![image](https://raw.githubusercontent.com/thomass96/Typography-Poster/master/Poster%205/Poster-5.png)
 
-For my final design, I decided to mess around and mimic 'The matrix' and this is the general image concept that I think of when I think of a hacker/important tech related job.
+For this design, I decided to mess around and mimic 'The matrix' and this is the general image concept that I think of when I think of a hacker/important tech related job.
 
 <h2>Poster 6</h2> 
 ![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%206/NSA%20LOGO.png?raw=true)
+
+<h1>VS</h1>
+
+![image](https://github.com/thomass96/Typography-Poster/blob/master/Poster%206/orginal-logo.png?raw=true)
 
 My final poster idea was to recreate the NSA logo out of the tweet. Firstly, obviously because Snowden released covert information about the NSA. Secondly, if a person outside of the group was to look at the poster, it is much easier to recognise that the poster is about Edward Snowden. Whereas, other posters could take longer to understand the concept based on it. 
 
